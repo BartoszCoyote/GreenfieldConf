@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "jquery.cookie": "^1.4.1",
+    "jquery.countdown": "^1.2.8",
     "popper.js": "^1.12.9",
     "postcss-loader": "^2.0.10",
     "style-loader": "^0.19.1"
